@@ -2,6 +2,7 @@ public class Names {
     public static void main(String[] args) {
         String user1 = "иван иванов";
         String user2 = "Вован Иванов";
+        String user3 = "Вован Иванов";
 
         checkUserName(user1, user2);
     }
