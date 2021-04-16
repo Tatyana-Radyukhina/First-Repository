@@ -11,5 +11,7 @@ public class Massiv {
 
         }
         System.out.println(Arrays.toString(result));
+        System.out.println("Hello World!");
     }
+
 }
